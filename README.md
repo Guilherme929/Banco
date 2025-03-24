@@ -1,7 +1,6 @@
 # Banco
 
-C ```
-#include <stdio.h>
+C ```#include <stdio.h>
   int main() {
     printf("Hello Banco Sleiwer");
   }
