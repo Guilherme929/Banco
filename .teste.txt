@@ -1,0 +1,4 @@
+Uso:
+
+-w: Escreve conteúdo dentro do arquivo
+-a: Cria pasta
