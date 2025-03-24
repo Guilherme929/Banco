@@ -5,5 +5,4 @@ C ```
   int main() {
     printf("Hello Banco Sleiwer");
   }
-  return 0;
- ```
+  return 0;```
