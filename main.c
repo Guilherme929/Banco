@@ -57,7 +57,7 @@ int help() {
 
 int main(int argc, char *argv[]) {
   if (argc < 2) {
-    printf("Uso: %s [argumento] <nome arquivo>\n", argv[0]);
+    printf("Uso: %s -h\n", argv[0]);
     return 1;
   }
   
@@ -73,7 +73,7 @@ int main(int argc, char *argv[]) {
   }
 
   if (strcmp(argv[1], "-w") == 0) {
-    printf("[+] escrevendo\n"); 
+    printf("Acessando o saldo:  \n"); 
   } else if (strcmp(argv[1], "-s") == 0){
     printf("Saldo: %s\n");
   } else if (strcmp(argv[1], "-a") == 0) {

@@ -25,9 +25,9 @@ int criar_users(const char *nome, const char *email, const char *senha) {
   fclose(file);
 }
 
-int ler_users(const char *nome, const char *email, const char *senha) {
-  FILE *file;
-  const char *arq = ""  
- 
-  file = fopen() 
-}
+//int ler_users(const char *nome, const char *email, const char *senha) {
+//  FILE *file;
+//  const char *arq = ""  
+// 
+//  file = fopen() 
+//}
